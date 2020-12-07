@@ -9,6 +9,9 @@ public class GreatestOfThree {
 			System.out.println("b is greater");
 		else
 			System.out.println("c is greater");
+		System.out.println("velocity class");
+		
+		
 	}
 
 }
