@@ -11,6 +11,7 @@ public class GreatestOfThree {
 			System.out.println("c is greater");
 		System.out.println("velocity class");
 		System.out.println("jjsd");
+		System.out.println("jnc");
 		
 	}
 
